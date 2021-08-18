@@ -1,15 +1,13 @@
-<svg id="logo" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <svg id="logo" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
     <title>rt. logo</title>
-    <circle 
-            cx="50" 
-            cy="50" 
-            r="45" 
-            stroke="#00b0ff" 
-            strokeWidth="50"
-            strokeLinecap="round"
-            strokeLinejoin="round"
-    />
-    <g transform="translate(25.000000, 40.000000)">
+      <circle 
+                cx="50" 
+                cy="50" 
+                r="45" 
+                stroke="#00b0ff" 
+                stroke-width="5"
+      />
+      <g transform="translate(25.000000, 40.000000)">
         <path d = " M 10.726 5.25 
                     L 10.726 8.777 
                     A 11.369 11.369 0 0 0 8.859 8.634 
@@ -21,9 +19,9 @@
                     L 3.753 7.937 
                     Q 5.619 4.963 9.044 4.963 
                     Q 10.151 4.963 10.726 5.25 Z" 
-                
-                fill="#00b0ff"
-                id = 'r'
+              
+              fill="#00b0ff"
+              id = 'r'
         />
         <path d = " M 15.565 0 
                     L 19.359 0 
@@ -44,8 +42,8 @@
                     L 11.525 5.373 
                     L 15.565 5.373 
                     L 15.565 0 Z  "
-                fill = '#00b0ff'
-                id = 't'
+              fill = '#00b0ff'
+              id = 't'
         />
         <path d = " M 28.014 25.573 
                     Q 28.014 24.589 28.598 23.933 
@@ -56,9 +54,9 @@
                     Q 31.521 27.788 30.352 27.788 
                     Q 29.183 27.788 28.598 27.152 
                     Q 28.014 26.517 28.014 25.573 Z" 
-                
-                fill="#00b0ff"
-                id = 'dot'
+              
+              fill="#00b0ff"
+              id = 'dot'
         />
-    </g>
-</svg>
+      </g>    
+  </svg>

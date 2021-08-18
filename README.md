@@ -24,7 +24,7 @@ This is pretty straightforward.
 		cy="50"
 		r="45"
 		stroke="#00b0ff"
-		strokeWidth="5"
+		stroke-width="5"
 />
 ```
 **rt.**
